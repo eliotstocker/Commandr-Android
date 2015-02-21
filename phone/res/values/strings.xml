@@ -38,6 +38,14 @@
     <string name="flashlight_phrases">turn on flashlight, flashlight on, torch</string>
     <string name="flashlight_off_title">Flashlight Off</string>
     <string name="flashlight_off_phrases">turn off flashlight, flashlight off</string>
+    <string name="lights_on_title">Turn Light on with Light Controller</string>
+    <string name="lights_on_pharse">turn lights on in, turn light on</string>
+    <string name="lights_off_title">Turn Light off with Light Controller</string>
+    <string name="lights_off_pharse">turn lights off in, turn light off</string>
+    <string name="lights_controller_old">Please update Light Controller to the Latest available version</string>
+    <string name="lights_controller_not_installed">Light Controller is not installed</string>
+    <string name="light_zone_not_found">Zone: %s Not found</string>
+    <string name="light_zone_hint">Zone Name</string>
     <string name="gps_title">GPS On</string>
     <string name="gps_phrases">turn on gps, gps on</string>
     <string name="gps_off_title">GPS Off</string>

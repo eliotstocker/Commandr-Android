@@ -50,7 +50,7 @@ dependencies {
     wearApp project(':wear')
     compile 'com.android.support:multidex:1.0.0'
     compile 'com.crashlytics.android:crashlytics:1.+'
-
+    compile 'Light-ControllerAPI:lightcontrollerapi:0.9.2'
 }
 
 android {
