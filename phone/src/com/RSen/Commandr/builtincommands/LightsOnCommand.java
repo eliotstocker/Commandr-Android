@@ -61,6 +61,11 @@ public class LightsOnCommand extends MostWantedCommand {
 
     @Override
     public boolean isAvailable(Context context) {
+        try {
+            new LightControllerAPI(context);
+        } catch(LightControllerException e) {
+            return false;
+        }
         return true;
     }
 
